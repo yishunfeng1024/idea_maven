@@ -15,7 +15,7 @@
     <module>crm-web</module>
   </modules>
   <properties>
-    <spring.version>4.3.3.RELEASE</spring.version>
+    <spring.version>5.2.20.RELEASE</spring.version>
     <mybbatis.version>3.4.4</mybbatis.version>
   <mybatis.spring.version>1.3.0</mybatis.spring.version>
     <druid.version>1.1.7</druid.version>
